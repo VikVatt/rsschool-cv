@@ -14,11 +14,11 @@ An enthusiastic, reliable, responsible and hard working person. I am a mature te
 * Git
 * JavaScript (Basic)
 * Agile Frameworks
-# Code
+# Code Example
 ```
 function multiply(a, b){
-  return a * b
-}
+  return a * b 
+  }
 ```
 # Experience
 Working as an Account Manager in a blockchain field since 2017
